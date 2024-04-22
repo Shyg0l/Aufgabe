@@ -1,3 +1,8 @@
+function men1 () {
+    while (!(input.buttonIsPressed(Button.A))) {
+    	
+    }
+}
 let menue = 1
 basic.showNumber(menue)
 basic.forever(function () {
